@@ -1,7 +1,7 @@
 # ML_Sem_5
 This repository contains 2 folders
-
 1. Class Assignments (API writeups + Homework) -
+
 i) Python exercises from Hackerrank
 
 ii) Numpy basics
@@ -25,6 +25,7 @@ x) KNN code from scratch
 xi) Naive Bayes code from scratch
 
 2. Practicals -
+
 0 Python Basics
 
 1 Numpy, pandas and Matplotlib
